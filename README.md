@@ -21,3 +21,5 @@ THEN I am again presented with current and future conditions for that city
     * Uses the OpenWeather API to retrieve weather data.
 
     * Uses `localStorage` to store persistent data.
+
+# Thought Train
